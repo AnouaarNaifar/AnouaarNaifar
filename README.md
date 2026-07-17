@@ -10,7 +10,7 @@ Building intelligent systems, data-driven applications and scalable software.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 🎓 Second-year Engineering Student in **Data Engineering & Decision Systems** at ENET'Com, Tunisia.
 
@@ -26,7 +26,7 @@ Currently exploring:
 
 ---
 
-## 💼 Experience
+## Experience
 
 🏢 ACTEOL
 
@@ -49,7 +49,7 @@ Software Engineering Internship
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🧠 Liver Tumor Segmentation using U-Net (PyTorch)
 
@@ -119,25 +119,8 @@ CSS
 
 ---
 
-## 📈 GitHub Stats
-
-...
-
-## 🌱 Currently Learning
-
-- Large Language Models
-- MLOps
-- Azure AI
-- Apache Spark
-- Docker
-- Kubernetes
-
----
-
 ## 📫 Let's Connect
 
-LinkedIn
-
-Portfolio
-
-Email
+- 💼 LinkedIn: https://www.linkedin.com/in/anouaar-naifar/
+- 🌐 Portfolio: https://www.linkedin.com/in/anouaar-naifar/
+- 📧 Email: anouaar.naifar@enetcom.u-sfax.tn - neifaranouaar@gmail.com
