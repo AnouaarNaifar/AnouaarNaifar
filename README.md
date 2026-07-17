@@ -122,5 +122,5 @@ CSS
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/anouaar-naifar/
-- 🌐 Portfolio: https://www.linkedin.com/in/anouaar-naifar/
+- 🌐 Portfolio: https://anouaarnaifar.github.io/
 - 📧 Email: anouaar.naifar@enetcom.u-sfax.tn - neifaranouaar@gmail.com
