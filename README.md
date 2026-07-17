@@ -28,19 +28,13 @@ Currently exploring:
 
 ## Experience
 
-🏢 ACTEOL
-
-Business Intelligence Internship
-
+🏢 ACTEOL: Business Intelligence Internship
 - SQL Server
 - SSIS
 - Data Warehouse
 - Dashboards
 
-🏢 INCENDO
-
-Software Engineering Internship
-
+🏢 INCENDO: Software Engineering Internship
 - CQRS
 - Microservices
 - Spring Boot
