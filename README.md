@@ -1,16 +1,143 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Anouaar Naifar</h1>
 
-<!--
-**AnouaarNaifar/AnouaarNaifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Data Engineering Student • AI & Machine Learning • Software Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent systems, data-driven applications and scalable software.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 Second-year Engineering Student in **Data Engineering & Decision Systems** at ENET'Com, Tunisia.
+
+I'm passionate about turning data into intelligent solutions through Artificial Intelligence, Data Engineering and Software Development.
+
+Currently exploring:
+
+- 🤖 Deep Learning
+- 📊 Data Engineering
+- ☁️ Cloud Technologies
+- 🧠 Machine Learning
+- ⚙️ Backend Development
+
+---
+
+## 💼 Experience
+
+🏢 ACTEOL
+
+Business Intelligence Internship
+
+- SQL Server
+- SSIS
+- Data Warehouse
+- Dashboards
+
+🏢 INCENDO
+
+Software Engineering Internship
+
+- CQRS
+- Microservices
+- Spring Boot
+- Kafka
+- VueJS
+
+---
+
+## 🚀 Featured Projects
+
+🧠 Liver Tumor Segmentation using U-Net (PyTorch)
+
+🚗 Tayara.tn Vehicle Web Scraper
+
+📊 Business Intelligence Dashboard
+
+🛒 CQRS E-commerce Platform
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • Java • C# • JavaScript • PHP • SQL • Bash
+
+### AI & Data
+
+PyTorch
+
+NumPy
+
+Pandas
+
+Scikit-Learn
+
+Matplotlib
+
+### Data Engineering
+
+SQL Server
+
+PostgreSQL
+
+MongoDB
+
+Kafka
+
+Hadoop
+
+SSIS
+
+### Backend
+
+Spring Boot
+
+Symfony
+
+.NET
+
+REST APIs
+
+Microservices
+
+CQRS
+
+### Web
+
+VueJS
+
+Bootstrap
+
+HTML
+
+CSS
+
+---
+
+## 📈 GitHub Stats
+
+...
+
+## 🌱 Currently Learning
+
+- Large Language Models
+- MLOps
+- Azure AI
+- Apache Spark
+- Docker
+- Kubernetes
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn
+
+Portfolio
+
+Email
