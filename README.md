@@ -45,5 +45,3 @@ Final-year **Data Engineering & Decision Systems** engineering student at **ENET
 ## Contact
 
 [Portfolio](https://anouaar-naifar.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anouaar-naifar/) · [GitHub](https://github.com/AnouaarNaifar) · [Email](mailto:neifaranouaar@gmail.com)
-
-<p align="center"><sub>Theme colors: <code>#532362</code> · <code>#6c3e7a</code> · <code>#ad82ba</code> · <code>#cbc4ea</code> · <code>#f2e7fe</code></sub></p>
