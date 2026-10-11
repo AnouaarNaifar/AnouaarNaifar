@@ -22,25 +22,26 @@ Final-year **Data Engineering & Decision Systems** engineering student at **ENET
 
 ## Experience
 
-- **AI Engineer Intern · Digital Research Center, Sfax** — Clinical decision support using ECG, cardiac MRI, LLM/RAG, and knowledge graphs.
-- **BI Developer Intern · ACTEOL, Sfax** — Data warehouse, SSIS ETL pipelines, and dashboards for Wide World Importers.
-- **Full Stack Developer Intern · INCENDO, Sfax** — CQRS and event-driven microservices with Spring Boot, VueJS, Kafka, MongoDB, and PostgreSQL. **Best Internship award.**
-- **Microsoft 365 Intern · PROGED Business Solutions** — License management workflows with Power Apps and Power Automate.
+- **AI Engineer Intern · Digital Research Center, Sfax** - Clinical decision support using ECG, cardiac MRI, LLM/RAG, and knowledge graphs.
+- **BI Developer Intern · ACTEOL, Sfax** - Data warehouse, SSIS ETL pipelines, and dashboards for Wide World Importers.
+- **Full Stack Developer Intern · INCENDO, Sfax** - CQRS and event-driven microservices with Spring Boot, VueJS, Kafka, MongoDB, and PostgreSQL. **Best Internship award.**
+- **Microsoft 365 Intern · PROGED Business Solutions** - License management workflows with Power Apps and Power Automate.
 
 ## Selected Projects
 
-- [Bearing Fault Diagnosis](https://github.com/AnouaarNaifar/CWRU-Bearing-Fault-Diagnosis-Deep-Learning) — PyTorch 1D CNN and Streamlit dashboard with FFT analysis.
-- **Liver Tumor Segmentation** — 2.5D attention U-Net pipeline for CT scans.
-- [Airline Review Classification](https://github.com/AnouaarNaifar/airlines-reviews-classification) — NLP and machine-learning classification pipeline.
-- [Tayara Vehicle Scraper](https://github.com/AnouaarNaifar/tayara_scraping) — Modular Python extraction and storage tool.
-- [CQRS E-Commerce Platform](https://github.com/AnouaarNaifar/PFE) — Spring Boot, VueJS, Kafka, MongoDB, and PostgreSQL.
+- [Cardiac Multi-Agent Pipeline](https://github.com/AnouaarNaifar/cardiac-multiagent-pipeline) - Intelligent multi-agent framework for cardiac signal and clinical data analysis, combining specialized agents for preprocessing, reasoning, and decision support.
+- [Bearing Fault Diagnosis](https://github.com/AnouaarNaifar/CWRU-Bearing-Fault-Diagnosis-Deep-Learning) - PyTorch 1D CNN and Streamlit dashboard with FFT analysis.
+- **Liver Tumor Segmentation** - 2.5D attention U-Net pipeline for CT scans.
+- [Airline Review Classification](https://github.com/AnouaarNaifar/airlines-reviews-classification) - NLP and machine-learning classification pipeline.
+- [Tayara Vehicle Scraper](https://github.com/AnouaarNaifar/tayara_scraping) - Modular Python extraction and storage tool.
+- [CQRS E-Commerce Platform](https://github.com/AnouaarNaifar/PFE) - Spring Boot, VueJS, Kafka, MongoDB, and PostgreSQL.
 
 ## Education & Recognition
 
-- **ENET'Com Sfax** — Engineering Cycle in Data Engineering & Decision Systems, 2024–present
-- **FSEG Sfax** — Bachelor's Degree in Business Computing, 2021–2024
+- **ENET'Com Sfax** - Engineering Cycle in Data Engineering & Decision Systems, 2024 - present
+- **FSEG Sfax** - Bachelor's Degree in Business Computing, 2021 - 2024
 - DataCamp AI Fundamentals · DataCamp Data Literacy · EF English B2
-- PAQ Best Innovative Idea — 2nd Place · Best Internship, UnivExpo 26th Edition
+- PAQ Best Innovative Idea - 2nd Place · Best Internship, UnivExpo 26th Edition
 
 ## Contact
 
