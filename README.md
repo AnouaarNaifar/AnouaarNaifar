@@ -31,7 +31,7 @@ Final-year **Data Engineering & Decision Systems** engineering student at **ENET
 
 - [Cardiac Multi-Agent Pipeline](https://github.com/AnouaarNaifar/cardiac-multiagent-pipeline) - Intelligent multi-agent framework for cardiac signal and clinical data analysis, combining specialized agents for preprocessing, reasoning, and decision support.
 - [Bearing Fault Diagnosis](https://github.com/AnouaarNaifar/CWRU-Bearing-Fault-Diagnosis-Deep-Learning) - PyTorch 1D CNN and Streamlit dashboard with FFT analysis.
-- **Liver Tumor Segmentation** - 2.5D attention U-Net pipeline for CT scans.
+- [Liver Tumor Segmentation](https://github.com/AnouaarNaifar/LiverTumorSegmentation) - 2.5D attention U-Net pipeline for CT scans.
 - [Airline Review Classification](https://github.com/AnouaarNaifar/airlines-reviews-classification) - NLP and machine-learning classification pipeline.
 - [Tayara Vehicle Scraper](https://github.com/AnouaarNaifar/tayara_scraping) - Modular Python extraction and storage tool.
 - [CQRS E-Commerce Platform](https://github.com/AnouaarNaifar/PFE) - Spring Boot, VueJS, Kafka, MongoDB, and PostgreSQL.
